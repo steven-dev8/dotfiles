@@ -1,0 +1,9 @@
+# Fonte
+[font]
+normal.family = "JetBrains Mono"
+normal.style = "Regular"
+size = 13
+
+[font.offset]
+x = 0 # Horizontal offset (usually left at 0)
+y = 1 # Adjust this value for line height
